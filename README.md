@@ -1,7 +1,5 @@
 # Explore Python in 6 Days Roadmap
 
-This roadmap is designed for complete beginners to learn the basics of Python programming in 6 days. It provides a step-by-step guide to help you build a strong foundation in Python.
-
 ## Day 1: Introduction and Basic Operations
 - [ ] Introduction to Python.
 - [ ] Install Python on your computer.
@@ -46,6 +44,3 @@ This roadmap is designed for complete beginners to learn the basics of Python pr
 - [Python Official Documentation](https://docs.python.org/3/): For in-depth information on Python.
 - [Python for Beginners](https://www.python.org/about/gettingstarted/): Python's official beginner's guide.
 - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3): Interactive Python learning.
-
-This roadmap will provide you with a solid foundation in Python programming. Remember to practice regularly and work on projects to reinforce your skills. Happy coding!
-
