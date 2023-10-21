@@ -1,5 +1,4 @@
-# Exploring Python
-# Learn Python in 6 Days Roadmap
+# Explore Python in 6 Days Roadmap
 
 This roadmap is designed for complete beginners to learn the basics of Python programming in 6 days. It provides a step-by-step guide to help you build a strong foundation in Python.
 
