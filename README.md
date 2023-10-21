@@ -3,9 +3,6 @@
 ## Day 1: Introduction and Basic Operations
 - [ ] Introduction to Python.
 - [ ] Install Python on your computer.
-  - Windows: [Python Installation Guide for Windows](https://docs.python.org/3/using/windows.html)
-  - macOS: [Python Installation Guide for macOS](https://docs.python.org/3/using/mac.html)
-  - Linux: Use package manager or [Python's official site](https://www.python.org/downloads/).
 - [ ] Learn how to run Python scripts.
 - [ ] Basic arithmetic operations.
 - [ ] Create and print variables.
