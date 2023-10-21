@@ -3,7 +3,7 @@
 This roadmap is designed for complete beginners to learn the basics of Python programming in 6 days. It provides a step-by-step guide to help you build a strong foundation in Python.
 
 ## Day 1: Introduction and Setup
-- [ ] Introduction to Python.
+- [x] Introduction to Python.
 - [ ] Install Python on your computer.
   - Windows: [Python Installation Guide for Windows](https://docs.python.org/3/using/windows.html)
   - macOS: [Python Installation Guide for macOS](https://docs.python.org/3/using/mac.html)
