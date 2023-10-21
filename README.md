@@ -39,8 +39,3 @@
 - [ ] Create a simple Python project.
 - [ ] Combine your knowledge to build a small Python program.
 - [ ] Reflect on what you've learned and explore further resources.
-
-## Additional Resources
-- [Python Official Documentation](https://docs.python.org/3/): For in-depth information on Python.
-- [Python for Beginners](https://www.python.org/about/gettingstarted/): Python's official beginner's guide.
-- [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3): Interactive Python learning.
