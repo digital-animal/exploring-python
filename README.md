@@ -2,30 +2,34 @@
 
 This roadmap is designed for complete beginners to learn the basics of Python programming in 6 days. It provides a step-by-step guide to help you build a strong foundation in Python.
 
-## Day 1: Introduction and Setup
+## Day 1: Introduction and Basic Operations
 - [ ] Introduction to Python.
 - [ ] Install Python on your computer.
   - Windows: [Python Installation Guide for Windows](https://docs.python.org/3/using/windows.html)
   - macOS: [Python Installation Guide for macOS](https://docs.python.org/3/using/mac.html)
   - Linux: Use package manager or [Python's official site](https://www.python.org/downloads/).
+- [ ] Learn how to run Python scripts.
+- [ ] Basic arithmetic operations.
+- [ ] Create and print variables.
+- [ ] Practice with simple coding exercises.
 
-## Day 2: Variables and Data Types
+## Day 2: Data Types and Control Flow
 - [ ] Understand Python's data types (integers, floats, strings).
-- [ ] Learn how to declare and assign variables.
-- [ ] Practice basic arithmetic operations.
-- [ ] Explore string manipulation.
+- [ ] Explore data structures: lists, sets, and tuples.
+- [ ] Learn about if statements and conditional logic.
+- [ ] Work with loops (for and while) for repetition.
+- [ ] Practice with data types and control flow.
 
-## Day 3: Control Flow
-- [ ] Understand Python's if statements and conditional logic.
-- [ ] Learn about loops (for and while) for repetition.
-- [ ] Work with lists and dictionaries.
-- [ ] Practice basic control flow exercises.
-
-## Day 4: Functions
+## Day 3: Functions
 - [ ] Learn how to define and call functions.
 - [ ] Understand the concept of function parameters and return values.
 - [ ] Write custom functions to solve problems.
 - [ ] Explore the scope of variables.
+
+## Day 4: Advanced Functions and Functional Programming
+- [ ] Learn about map, filter, and reduce functions for data manipulation.
+- [ ] Explore list comprehensions for concise data transformation.
+- [ ] Practice functional programming concepts.
 
 ## Day 5: File Handling and Exception Handling
 - [ ] Read and write files in Python.
@@ -33,8 +37,7 @@ This roadmap is designed for complete beginners to learn the basics of Python pr
 - [ ] Practice handling common exceptions.
 - [ ] Work with file I/O operations.
 
-## Day 6: Python Modules and Basic Projects
-- [ ] Learn about Python modules and libraries.
+## Day 6: Basic Projects and Further Learning
 - [ ] Create a simple Python project.
 - [ ] Combine your knowledge to build a small Python program.
 - [ ] Reflect on what you've learned and explore further resources.
@@ -45,3 +48,4 @@ This roadmap is designed for complete beginners to learn the basics of Python pr
 - [Codecademy Python Course](https://www.codecademy.com/learn/learn-python-3): Interactive Python learning.
 
 This roadmap will provide you with a solid foundation in Python programming. Remember to practice regularly and work on projects to reinforce your skills. Happy coding!
+
