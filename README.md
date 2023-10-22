@@ -1,12 +1,13 @@
 # Explore Python in 6 Days Roadmap
 
 ## Day 1: Introduction and Basic Operations
-- [ ] Introduction to Python.
-- [ ] Install Python on your computer.
-- [ ] Learn how to run Python scripts.
-- [ ] Basic arithmetic operations.
-- [ ] Create and print variables.
-- [ ] Practice with simple coding exercises.
+- [x] Introduction to Python.
+- [x] Install Python on your computer.
+- [x] Install IDE or Code Editor.
+- [x] Learn how to run Python scripts.
+- [x] Basic arithmetic operations.
+- [x] Create and print variables.
+- [x] Practice with simple coding exercises.
 
 ## Day 2: Data Types and Control Flow
 - [ ] Understand Python's data types (integers, floats, strings).
