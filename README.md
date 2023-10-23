@@ -10,11 +10,11 @@
 - [x] Practice with simple coding exercises.
 
 ## Day 2: Data Types and Control Flow
-- [ ] Understand Python's data types (integers, floats, strings).
+- [x] Understand Python's data types (integers, floats, strings).
 - [ ] Explore data structures: lists, sets, and tuples.
-- [ ] Learn about if statements and conditional logic.
-- [ ] Work with loops (for and while) for repetition.
-- [ ] Practice with data types and control flow.
+- [x] Learn about if statements and conditional logic.
+- [x] Work with loops (for and while) for repetition.
+- [x] Practice with data types and control flow.
 
 ## Day 3: Functions
 - [ ] Learn how to define and call functions.
